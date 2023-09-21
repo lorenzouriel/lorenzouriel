@@ -43,7 +43,56 @@
 <a href="https://www.instagram.com/lorenzo_uriel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/Lorenzouriel6" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
-
-
 </div> 
 
+---
+Loading...
+---
+---
+
+<h1 align="center">Lorenzo Uriel here!</h1>
+<h3 align="center">Welcome to my repository! I hope to enrich your life by sharing my knowledge.</h3>
+
+<h2 align="left">🗨 About me:</h2>
+
+ - 👨‍🎓 I hold a degree in Information Systems from Anhanguera.
+ - 👨‍💻 I am currently pursuing a Postgraduate degree in Project Management at Mackenzie.
+ - 🔭 I demonstrate critical skills and a passion for delivering results. I have gained valuable experience at a technology/tracking company, developing a business-oriented perspective to provide practical solutions.
+ - 📊 In love with data
+
+<p align="left">  
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/> </a> 
+  <a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" alt="visual-studio" width="40" height="40"/> </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vs-code" width="40" height="40"/> </a> 
+  <a href="https://azure.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="Azure" width="40" height="40"/> </a>
+  </p> 
+
+
+  <h2 align="left">🏄‍♂️ My Work/Projects:</h2>
+
+ - [Web Portfolio](https://github.com/lorenzouriel/project-portfolio-web): A portfolio to showcase my skills and who I am in one place.
+ - [Dashboard Portfolio](https://github.com/lorenzouriel/project-powerbi-portfolio-dashboards): A portfolio dedicated to the world of Power BI, where I share a set of projects developed in Power BI and the dashboards created during my study period.
+ - [BI Project - Data Synergy](https://github.com/lorenzouriel/project-data-synergy): The project aims to provide Business Intelligence solutions to improve human resource management processes and data analysis, with a focus on transforming Excel spreadsheets into an integrated Power BI environment.
+ - [BI Project - RoadMap for All Stages of this Universe](https://github.com/lorenzouriel/project-bi-roadmap): This project aims to detail all stages of a Business Intelligence (BI) project. We will go through data sheets, the Extraction, Transformation, and Loading (ETL) process, the use of relational databases, the creation of OLAP cubes, and finally, implementation in Power BI for high-performance analysis.
+
+<h2 align="left">🌍 Languages</h2>
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English | C2 |
+| Portuguese | Native |
+
+
+<h2 align="left">🌐 Social Networks</h2>
+<a href="https://www.linkedin.com/in/lorenzo-uriel-6171b7186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://medium.com/@lorenzouriel" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+<a href = "mailto:lorenzouriel394@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCFvtytl8soqotLJ74hk7rRA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/lorenzo_uriel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/Lorenzouriel6" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+
+</div>
