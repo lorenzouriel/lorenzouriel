@@ -7,18 +7,6 @@
  - 🔭 Demonstro habilidades críticas e uma paixão por entregar resultados. Adquiri valiosa experiência em uma empresa de tecnologia/rastreamento, desenvolvendo uma perspectiva orientada a negócios para oferecer soluções práticas.
  - 📊 In love with data
 
-<p align="left">  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/> </a> 
-  <a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" alt="visual-studio" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vs-code" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="Azure" width="40" height="40"/> </a>
-  </p> 
-
-
   <h2 align="left">🏄‍♂️ Meus Trabalhos/Projetos:</h2>
 
  - [Portfolio Web](https://github.com/lorenzouriel/project-portfolio-web): Um portfólio para reunir minhas habilidades e quem eu sou em um único lugar.
@@ -57,17 +45,6 @@ Loading...
  - 👨‍💻 I am currently pursuing a Postgraduate degree in Project Management at Mackenzie.
  - 🔭 I demonstrate critical skills and a passion for delivering results. I have gained valuable experience at a technology/tracking company, developing a business-oriented perspective to provide practical solutions.
  - 📊 In love with data
-
-<p align="left">  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/> 
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" alt="excel" width="40" height="40"/> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c-sharp" width="40" height="40"/> </a> 
-  <a href="https://visualstudio.microsoft.com/pt-br/downloads/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354520/visual-studio.svg" alt="visual-studio" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="vs-code" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="Azure" width="40" height="40"/> </a>
-  </p> 
 
 
   <h2 align="left">🏄‍♂️ My Work/Projects:</h2>
