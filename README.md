@@ -7,9 +7,9 @@
  - 🔭 Demonstro habilidades críticas e uma paixão por entregar resultados. Adquiri valiosa experiência em uma empresa de tecnologia/rastreamento, desenvolvendo uma perspectiva orientada a negócios para oferecer soluções práticas.
  - 📊 In love with data
 
-  <h2 align="left">🏄‍♂️ Meus Trabalhos/Projetos:</h2>
+  <h2 align="left">🏄‍♂️ Portfolio/Projetos Recentes:</h2>
 
- - [Portfolio Web](https://github.com/lorenzouriel/project-portfolio-web): Um portfólio para reunir minhas habilidades e quem eu sou em um único lugar.
+ - [Portfolio](https://platinum-periwinkle-c90.notion.site/LORENZO-URIEL-d0d14d0cfb8843139798d4ee63271725): Um portfólio para reunir minhas habilidades e quem eu sou em um único lugar.
  - [Portfolio de Dashboards](https://github.com/lorenzouriel/project-powerbi-portfolio-dashboards): Portfólio dedicado ao universo do Power BI, onde compartilho um conjunto de projetos desenvolvidos no Power BI e os dashboards criados durante o meu período de estudo.
  - [Projeto de BI - Sinergia de Dados](https://github.com/lorenzouriel/project-data-synergy): O projeto visa oferecer soluções em Business Intelligence para melhorar processos de gerenciamento de recursos humanos e análise de dados, com foco em transformar planilhas do Excel em um ambiente de Power BI integrado.
  - [Projeto de BI - RoadMap por Todas as Etapas desse Universo](https://github.com/lorenzouriel/project-bi-roadmap): Este projeto tem como objetivo detalhar todas as etapas de um projeto de Business Intelligence (BI). Iremos percorrer as planilhas de dados, o processo de Extração, Transformação e Carga (ETL), o uso de bancos de dados relacionais, a criação de cubos OLAP e, finalmente, a implementação no Power BI para análises de alto desempenho.
@@ -47,9 +47,9 @@ Loading...
  - 📊 In love with data
 
 
-  <h2 align="left">🏄‍♂️ My Work/Projects:</h2>
+  <h2 align="left">🏄‍♂️ Portfolio/Recent Projects:</h2>
 
- - [Web Portfolio](https://github.com/lorenzouriel/project-portfolio-web): A portfolio to showcase my skills and who I am in one place.
+ - [Portfolio](https://platinum-periwinkle-c90.notion.site/LORENZO-URIEL-0bc2207f77f54926be0f18b89e63f34b): A portfolio to showcase my skills and who I am in one place.
  - [Dashboard Portfolio](https://github.com/lorenzouriel/project-powerbi-portfolio-dashboards): A portfolio dedicated to the world of Power BI, where I share a set of projects developed in Power BI and the dashboards created during my study period.
  - [BI Project - Data Synergy](https://github.com/lorenzouriel/project-data-synergy): The project aims to provide Business Intelligence solutions to improve human resource management processes and data analysis, with a focus on transforming Excel spreadsheets into an integrated Power BI environment.
  - [BI Project - RoadMap for All Stages of this Universe](https://github.com/lorenzouriel/project-bi-roadmap): This project aims to detail all stages of a Business Intelligence (BI) project. We will go through data sheets, the Extraction, Transformation, and Loading (ETL) process, the use of relational databases, the creation of OLAP cubes, and finally, implementation in Power BI for high-performance analysis.
