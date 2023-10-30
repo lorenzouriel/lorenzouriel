@@ -11,7 +11,7 @@
 
  - [Portfolio](https://platinum-periwinkle-c90.notion.site/LORENZO-URIEL-d0d14d0cfb8843139798d4ee63271725): Um portfólio para reunir minhas habilidades e quem eu sou em um único lugar.
  - [Portfolio de Dashboards](https://github.com/lorenzouriel/project-powerbi-portfolio-dashboards): Portfólio dedicado ao universo do Power BI, onde compartilho um conjunto de projetos desenvolvidos no Power BI e os dashboards criados durante o meu período de estudo.
- - 
+   
 <h2 align="left">🌍 Línguas</h2>
 
 | Língua      | Proficiência                                                               |
