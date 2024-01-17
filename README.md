@@ -9,7 +9,7 @@
 
   <h2 align="left">🏄‍♂️ Portfolio:</h2>
 
- - [Portfolio](https://platinum-periwinkle-c90.notion.site/LORENZO-URIEL-d0d14d0cfb8843139798d4ee63271725): Um portfólio para reunir minhas habilidades e quem eu sou em um único lugar.
+ - [Portfolio](https://lorenzo-uriel.notion.site/lorenzo-uriel/LORENZO-URIEL-d0d14d0cfb8843139798d4ee63271725): Um portfólio para reunir minhas habilidades e quem eu sou em um único lugar.
  - [Portfolio de Dashboards](https://github.com/lorenzouriel/project-powerbi-portfolio-dashboards): Portfólio dedicado ao universo do Power BI, onde compartilho um conjunto de projetos desenvolvidos no Power BI e os dashboards criados durante o meu período de estudo.
  - [Artigos](https://www.linkedin.com/in/lorenzo-uriel-6171b7186/recent-activity/articles/): Artigos feitos para ajudar e espalhar conhecimento para a comunidade
    
@@ -48,7 +48,7 @@ Loading...
 
   <h2 align="left">🏄‍♂️ Portfolio:</h2>
 
- - [Portfolio](https://platinum-periwinkle-c90.notion.site/LORENZO-URIEL-0bc2207f77f54926be0f18b89e63f34b): A portfolio to showcase my skills and who I am in one place.
+ - [Portfolio](https://lorenzo-uriel.notion.site/lorenzo-uriel/LORENZO-URIEL-0bc2207f77f54926be0f18b89e63f34b): A portfolio to showcase my skills and who I am in one place.
  - [Dashboard Portfolio](https://github.com/lorenzouriel/project-powerbi-portfolio-dashboards): A portfolio dedicated to the world of Power BI, where I share a set of projects developed in Power BI and the dashboards created during my study period.
  - [Articles](https://medium.com/@lorenzouriel): Articles made to help and spread knowledge to the community
 
