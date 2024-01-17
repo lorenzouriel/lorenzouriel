@@ -1,4 +1,4 @@
-<h3 align="center">Bem-vindo ao meu repositório! Espero poder enriquecer a sua vida ao compartilhar os meus conhecimentos.</h3>
+<h3 align="center">Bem-vindo ao meu repositório!</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
@@ -36,7 +36,7 @@ Loading...
 ---
 ---
 
-<h3 align="center">Welcome to my repository! I hope to enrich your life by sharing my knowledge.</h3>
+<h3 align="center">Welcome to my repository!</h3>
 
 <h2 align="left">🗨 About me:</h2>
 
