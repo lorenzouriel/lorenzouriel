@@ -27,7 +27,6 @@
 ---
 Loading...
 ---
----
 
 <h3 align="center">Welcome to my repository!</h3>
 
