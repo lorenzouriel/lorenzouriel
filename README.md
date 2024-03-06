@@ -4,8 +4,8 @@
 
  - 👨‍🎓 I hold a degree in Information Systems from Anhanguera.
  - 👨‍💻 I am currently pursuing a Postgraduate degree in Project Management at Mackenzie.
- - 🔭 I demonstrate critical skills and a passion for delivering results. I have gained valuable experience at a technology/tracking company, developing a business-oriented perspective to provide practical solutions.
- - 📊 In love with data
+ - 💥 I am passionate about Data and Technology | Project Management and Self-Management Enthusiast
+ - 🔭 I have gained valuable experience at a technology/tracking company, developing a business-oriented perspective to provide practical solutions.
  - [I write Articles](https://medium.com/@lorenzouriel): Articles made to help and spread knowledge to the community
  - [My Curriculum](https://drive.google.com/file/d/13Jw5vm5xbmuxQcRS03gDk1VaDsPF5qBU/view?usp=sharing)
 
