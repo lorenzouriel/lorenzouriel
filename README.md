@@ -8,13 +8,7 @@
  - 🔭 Gained valuable experience at a technology/tracking company, developing a business-oriented perspective to provide practical solutions.
  - [My Articles](https://medium.com/@lorenzouriel): Articles made to help and spread knowledge to the community
  - [My Curriculum](https://drive.google.com/file/d/13Jw5vm5xbmuxQcRS03gDk1VaDsPF5qBU/view?usp=sharing)
-
-<h2 align="left">🌍 Languages</h2>
-
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English | C1 |
-| Portuguese | Native |
+ - [My Git & GitHub E-book](https://github.com/lorenzouriel/ebook-git-github)
 
 
 <h2 align="left">🌐 Social Networks</h2>
