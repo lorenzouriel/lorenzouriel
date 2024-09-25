@@ -11,5 +11,5 @@ You can find me on:
 - [Medium](https://medium.com/@lorenzouriel)
 
 Check out some of my work:
-- [My Articles](https://medium.com/@lorenzouriel)
+- [Blog](https://linktr.ee/lorenzo_uriel)
 - [Git & GitHub E-book](https://github.com/lorenzouriel/ebook-git-github)
