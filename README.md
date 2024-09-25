@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=153040&height=120&section=header"/>
-
 ### Hi, I’m [Lorenzo](https://www.linkedin.com/in/lorenzo-uriel-6171b7186/).
 
 I’m passionate about Data and Technology, with a degree in Information Systems from Anhanguera, and a Postgraduate degree in Project Management from Mackenzie.
