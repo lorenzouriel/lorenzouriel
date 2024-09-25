@@ -8,10 +8,12 @@
  - 👨‍💻 Currently pursuing a Postgraduate degree in Project Management at Mackenzie.
  - 💥 Passionate about Data and Technology | Project Management and Self-Management Enthusiast
  - 🔭 Gained valuable experience at a technology/tracking company, developing a business-oriented perspective to provide practical solutions.
+
+ <h2 align="left">🧘🏽 What's more?:</h2>
+ 
  - [My Articles](https://medium.com/@lorenzouriel)
  - [My Curriculum](https://drive.google.com/file/d/13Jw5vm5xbmuxQcRS03gDk1VaDsPF5qBU/view?usp=sharing)
  - [My Git & GitHub E-book](https://github.com/lorenzouriel/ebook-git-github)
-
 
 <h2 align="left">🌐 Social Networks</h2>
 <a href="https://www.linkedin.com/in/lorenzo-uriel-6171b7186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
