@@ -15,5 +15,3 @@ You can find me on:
 Check out some of my work:
 - [My Articles](https://medium.com/@lorenzouriel)
 - [Git & GitHub E-book](https://github.com/lorenzouriel/ebook-git-github)
-
-*Doing What Needs to Be Done.*
