@@ -9,3 +9,5 @@ I’m also enthusiastic about Project Management and Self-Management.
 You can find me on:
 - [LinkedIn](https://www.linkedin.com/in/lorenzo-uriel-6171b7186/)
 - [Medium](https://medium.com/@lorenzouriel)
+- [Blog](https://lorenzouriel.github.io/)
+
