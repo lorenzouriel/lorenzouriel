@@ -1,4 +1,4 @@
-### Hi, I’m [Lorenzo](https://www.linkedin.com/in/lorenzo-uriel-6171b7186/).
+### Hi, I’m Lorenzo.
 
 I’m passionate about Data and Technology, with a degree in Information Systems from Anhanguera, and a Postgraduate degree in Project Management from Mackenzie.
 
