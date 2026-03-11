@@ -1,13 +1,7 @@
-### Hi, I’m Lorenzo.
+### Hi, I’m Lorenzo Uriel.
 
-I’m passionate about Data and Technology, with a degree in Information Systems from Anhanguera, and a Postgraduate degree in Project Management from Mackenzie.
-
-I work at a technology/tracking company, where I gained a business-oriented perspective to provide practical solutions. 
-
-I’m also enthusiastic about Project Management and Self-Management.
+I write about real problems that I've faced and that you'll likely going to face, subscribe to stay in touch!
 
 You can find me on:
-- [LinkedIn](https://www.linkedin.com/in/lorenzo-uriel-6171b7186/)
+- [Substack](https://substack.com/@lorenzouriel)
 - [Medium](https://medium.com/@lorenzouriel)
-- [Blog](https://lorenzouriel.github.io/)
-
